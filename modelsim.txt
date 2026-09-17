@@ -1,0 +1,3 @@
+run this commant on terminal
+~/Desktop/ModelSim.sh
+
